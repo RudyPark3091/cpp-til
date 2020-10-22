@@ -10,7 +10,15 @@
 * namespace.cpp   
   - defining namespace
   - using namespace
+* reference.cpp
+  - definition
+  - call-by-value vs call-by-reference
+  - function returning reference
+  - constant reference
+* memory.cpp
+  - C style memory allocation: malloc
+  - C++ style memory allocation: new & delete keyword
    
 ## 102-stls
 * vector.cpp
-   
+  - member functions   
